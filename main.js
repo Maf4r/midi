@@ -1,1 +1,1 @@
-alert('puta');
+document.querySelector('.tecla_pom');
